@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d143957b5f34fcb956ab617e627b7c, type: 3}
+  m_Name: LocationLoad_ChannelSO
+  m_EditorClassIdentifier: 
+  _guid: fbc77d705453d471da0e00e50f638cec
+  description: "\u6E38\u620F\u573A\u666F\u52A0\u8F7D\u9891\u9053\uFF0C\u901A\u77E5SceneLoader
+    \u573A\u666F\u52A0\u8F7D\u5668\u53BB\u52A0\u8F7D\u6307\u5B9A\u7684\u6E38\u620F\u573A\u666F"

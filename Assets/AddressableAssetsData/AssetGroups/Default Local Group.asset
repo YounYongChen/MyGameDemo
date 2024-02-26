@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: be414e29f1deb453fa9f712ff6bf9b3f
+  m_SerializeEntries:
+  - m_GUID: 5cffebf28d0554be687571fbd5353f6c
+    m_Address: Assets/Data/ScripableObjects/EventChannel/LoadScene_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6e6a2fa01f9f43858ba972c65d64d1a
+    m_Address: Assets/Data/Scenes/Menu/MainMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c76ae7afa43f4b7fb2eec43e6db3611
+    m_Address: Assets/Data/Scenes/Manager/PersistentManager.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39c8974d7cbed495dba398ac794c5c8e
+    m_Address: Assets/Data/Scenes/Test/TestMainCharacterScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3deb15357530c4bf48c1d5ca68430c9a
+    m_Address: Assets/Data/ScripableObjects/EventChannel/Test/ColdStartUpChannelSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc6238f69d7ba43c2b74c0e1f66e9352
+    m_Address: Assets/Data/Scenes/Managers/GamePlay.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2a21b0e8606f4780a8d924d2135fc57, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0e4d2c42e6bd8429f8a0f8daf0a6cf7a, type: 2}
+    - {fileID: 11400000, guid: 7aef0e1ff6cb3468b8dc39fb1b9e86fd, type: 2}

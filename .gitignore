@@ -1,0 +1,82 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Unity package files
+*.zip
+*.unitypackage
+
+# Compiled Assembly files
+/*.dll
+/*.pdb
+/*.mdb
+
+# Mono Auto Generated Files
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# macOS
+.DS_Store
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+*.csproj
+/Assembly-CSharp.csproj
+.vscode/
+client.sln
+/.vsconfig
+/.vs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+Desktop.ini
+
+# Windows Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer Directory
+# =====================
+# The .cab, .msi, .msm, and .msp files are already covered
+# Above with the "Windows Installer files" section.
+# =====================
+# Directory enumeration should be disabled for this directory,
+# See https://superuser.com/a/1118563/356996
+/Installer/
+

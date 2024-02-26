@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f7a424ce0f941ec8d6d181298adbad, type: 3}
+  m_Name: MainMenuSO
+  m_EditorClassIdentifier: 
+  _guid: cfb0bdb207fc0414d930617cafaef70c
+  description: "\u4E3B\u83DC\u5355ScriptObject\uFF0CLoadEventChannel \u6240\u53D1\u9001\u7684\u6D88\u606F\u4F53"
+  sceneType: 1
+  sceneReference:
+    m_AssetGUID: a6e6a2fa01f9f43858ba972c65d64d1a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
