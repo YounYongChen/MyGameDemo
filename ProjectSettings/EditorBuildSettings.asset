@@ -5,15 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Client.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Data/Scenes/Scene1.unity
     guid: a471f7f31dd0944818f6390c642043af
-  - enabled: 1
+  - enabled: 0
     path: Assets/Data/Scenes/Scene2.unity
     guid: 2e982f194dae74c91be8229cd2c8d798
+  - enabled: 0
+    path: Assets/PolygonPirates/Scenes/Demo_Main.unity
+    guid: bfa5d56a0eb50f04ba05cb6891c91214
+  - enabled: 1
+    path: Assets/Data/Scenes/Initialization.unity
+    guid: 9b05dab9f811f430a8f79b6bf11a8df0
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 3921b21b109c44893bab14d490e308ff, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: e7e90e48bf7f84819b13b73e0cb61871, type: 2}
